@@ -27,7 +27,7 @@ title: 资源「Resource」
  <p>
 <h3> Friends</h3>  
  <p>
-<a href="https://www.garyshen.com" target="_blank" >Gary Shen</a>- 对技术有追求的小朋友......
+<a href="http://www.garyshen.com" target="_blank" >Gary Shen</a>- 对技术有追求的小朋友......
 
 <h3> Others</h3>  
  <p> 
