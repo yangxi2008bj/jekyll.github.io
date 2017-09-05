@@ -56,15 +56,15 @@ cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: Blog
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/jekyll/archive'}   
-    - {title: 标签, description: tags, url: '/jekyll/tags'}   
-    - {title: 留言, description: liuyan, url: '/jekyll/liuyan'}
-    - {title: 资源, description: ziyuan, url: '/jekyll/ziyuan'}
-    - {title: 关于我, description: about, url: '/jekyll/about'}
+    - {title: Article, description: archive, url: '/jekyll/archive'}   
+    - {title: Tags, description: tags, url: '/jekyll/tags'}   
+    - {title: Comments, description: liuyan, url: '/jekyll/liuyan'}
+    - {title: Resource, description: ziyuan, url: '/jekyll/ziyuan'}
+    - {title: About me, description: about, url: '/jekyll/about'}
 
           
     
