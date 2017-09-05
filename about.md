@@ -3,78 +3,67 @@ layout: page
 title: 关于我「ABOUT ME」 
 date: 2017-09-05 
 ---
-<a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
+<a href="/photos/" target="_blank"><img src="/jekyll/images/florida.jpg" width="750" height="498" alt="photos"/></a>
 
 <p>
-一个即将走出象牙塔的 Maker「未更新」<a href="{{ site.baseurl }}/jianli.pdf" target="_blank"> 「我的简历」 </a>    
+一个从美国回到深圳来追寻自己的梦的游子 <a href="{{ site.baseurl }}/resume.pdf" target="_blank">「我的简历」</a>    
 
 
 <div style="color:#FF6633">
-<p>	三尺微命，一介书生。求学于卫星湖畔，黄瓜山下，欲潜心研究智能机器人开发应用之道。然所学颇杂，对诸多方面均有涉猎，喜欢研究一些新技术和关注一些最新的科技~
+<p>	
+重庆是我的家乡，我想我的最后一个梦想，一定是等老了回来重庆去生活，和发小们聊天，玩耍。
 </p>
 </div>
 <p>
-平时喜欢整理个人博客，逛逛技术论坛     
+平时喜欢和别人分享生活，工作，技术的体会，喜欢结交各个领域能让我敬佩欣赏的朋友。 
 <p>
-喜欢日本，想着如果有机会一定会去日本生活一段时间        
+喜欢DC，洛杉矶，麦迪逊，能实现财富自由的那一天，一定会再回到梦刚开始的地方去生活，体会。        
 <div style="color:#008B00">
 <p>
-喜欢Spoken English，虽然现在很渣，但一直在努力...        
+偏爱金融，但毫无基础，不知道以后能否有机会去学习，去深造。
 </p>
 
 </div>
 <p>
-同时喜欢老罗和晓松，虽然他俩还撕逼，罗跟谁不撕逼，爱听老罗的单口相声           
-<p>
-I’m a single-dog.  But codes and godgirl are my favorite.  Life is colorful, this website   is a window which used to present the color of my life.       
+欣赏罗永浩的情怀，刘强东的霸气，一直在努力成为一个足够牛逼的人......
 
 <p>
 
-<h3> PastTime</h3>   
+<h3>Acknowledgments</h3>   
 
 <p>
 
 
-也许你听说过，「业余时间决定人生」；也许你还听说过，「听过很多道理，依然过不好这一生」。书籍、代码、博客、运动、电影、美剧、游戏，这就是我的业余生活。            
+最要感谢的是我老婆的支持，从学习工作开始，就开始了异地生活。距离从纽约到DC，从洛杉矶到麦迪逊，再从洛杉矶到深圳。你的支持是我追梦最大的动力。 
 
 
 <div style="color:#708090">
 <p>
-     我的能力就这么多。我若全心工作，则必然忽略生活；我若用心生活，则必然一事无成；我若两者兼顾，又难免平庸
+     也不知道是否能够实现自己的理想，有能力让你过上幸福快乐的生活。但我知道，如果我不去努力和追寻心中的梦，一定会悔恨终身。
 </p>
 </div>
-<p>
-趁我在还能看得进书写得动代码的年纪，努力一回，看看这平庸的资质究竟能发挥几分。
 
+<h3> PS </h3>   
 <p>
-
-<h3> Ps </h3>   
-<p>
-如果你想搭建一个跟我一样的博客，可以看
-<a href="/2017/03/HowToCreateBlog/"> Jekyll+Github个人博客构建之路 </a>
-教程
-
+If you would like to create a blog using Jekyll and Github, look into 
+<a href="/2017/03/HowToCreateBlog/"> Jekyll+Github </a>
 <p>
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
+Thanks for MengZheK, I folk his repository.
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
+Blog resource codes are in <a target="_blank" href='https://github.com/yangxi2008bj/jekyll' target="_blank" >Github</a> , Star me~
 
-<h3> 联系方式 </h3>         
+<h3> Contact </h3>         
 <script>
 	function mousemethod(op,imgid){
 	document.getElementById(imgid).style.display=op;
 	}
 </script>
 
-<p>邮箱：robotkang@foxmail.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">微信：kang1390305137</a><img id="img1" src="http://omjh2j5h3.bkt.clouddn.com/kangweix.png" style="display:none;"  width="128" height="128">&emsp;
-	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：robotkang</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.png" style="display:none;" width="128" height="128" >
+<p>Email：yancy_yang@vip.163.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">Wechat：138900613</a><img id="img1" src="/jekyll/images/wechatImage.jpg" style="display:none;"  width="128" height="128">&emsp;
  
-<p>
-<a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
-</p>
 
 
 
