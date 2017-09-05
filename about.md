@@ -28,19 +28,21 @@ date: 2017-09-05
 欣赏罗永浩的情怀，刘强东的霸气，一直在努力成为一个足够牛逼的人......
 
 <p>
-
+<p>
+也不知道是否能够实现自己的理想，但我知道，如果我不去努力和追寻心中的梦，一定会悔恨终身。
+</p>
 <h3>Acknowledgments</h3>   
 
 <p>
 
 
 最要感谢的是我老婆的支持，从学习工作开始，就开始了异地生活。距离从纽约到DC，从洛杉矶到麦迪逊，再从洛杉矶到深圳。你的支持是我追梦最大的动力。 
-
+<p>
+1990年1月5日是你的生日，2016年1月5日是我们的结婚纪念日。等你回来或者我再回到美国之后，我们就再也不分开了。
+</p>
 
 <div style="color:#708090">
-<p>
-     也不知道是否能够实现自己的理想，有能力让你过上幸福快乐的生活。但我知道，如果我不去努力和追寻心中的梦，一定会悔恨终身。
-</p>
+
 </div>
 
 <h3> PS </h3>   
@@ -49,7 +51,7 @@ If you would like to create a blog using Jekyll and Github, look into
 <a href="/2017/03/HowToCreateBlog/"> Jekyll+Github </a>
 <p>
 
-Thanks for MengZheK, I folk his repository.
+Thanks for MengZheK, I folk your repository.
 
 <p> 
 
