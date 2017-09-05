@@ -3,7 +3,7 @@ layout: page
 title: 关于我「ABOUT ME」 
 date: 2017-09-05 
 ---
-<a href="/photos/" target="_blank" style="display: block;text-align: left;"><img src="/jekyll/images/florida.jpg" style="display: inline-block;" width="600" height="400" alt="photos"/></a>
+<a href="/jekyll/photos/" target="_blank" style="display: block;text-align: left;"><img src="/jekyll/images/florida.jpg" style="display: inline-block;" width="600" height="400" alt="photos"/></a>
 
 <p>
 一个从美国回到深圳来追寻自己的梦的游子 <a href="{{ site.baseurl }}/resume.pdf" target="_blank">「我的简历」</a>    
