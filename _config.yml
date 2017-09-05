@@ -62,8 +62,8 @@ blog_button:
 nav:
     - {title: Articles, description: archive, url: '/jekyll/archive'}   
     - {title: Tags, description: tags, url: '/jekyll/tags'}   
-    - {title: Comments, description: liuyan, url: '/jekyll/liuyan'}
-    - {title: Resource, description: ziyuan, url: '/jekyll/ziyuan'}
+    - {title: Comments, description: comments, url: '/jekyll/comments'}
+    - {title: Resource, description: resource, url: '/jekyll/resource'}
     - {title: About me, description: about, url: '/jekyll/about'}
 
           
