@@ -1,32 +1,32 @@
 # Basic
-title: 亢志军
-subtitle: 自留地
-description: 欢迎来到我的个人网站~
+title: 杨曦
+subtitle: Yancy
+description: Welcome to My Home
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Yancy Yang
 # 头像里面的描述
-avatarDesc: Python/机器学习/嵌入式
-url: "http://robotkang.cc"
+avatarDesc: Java/Architect/Healthcare
+url: "https://yangxi2008bj.github.io/jekyll/"
 
 # Comment
-comment:
-    provider: duoshuo
-    duoshuo:
-     short_name: robotkang
+# comment:
+#     provider: duoshuo
+#     duoshuo:
+#      short_name: robotkang
 
 # Social
 social:
-    weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
+    weibo: yangxi199020081990
+    weixing: 138900613 
+    github: yangxi2008bj
     # twitter: 
-    mail: robotkang@foxmail.com
+    mail: yangxi_yancy@vip.163.com
     csdn: robotkang
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 144d500dd9ac4a65465a14b95f3e4ade 
+#baidu:
+ #   id: 144d500dd9ac4a65465a14b95f3e4ade 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
