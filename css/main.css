@@ -62,7 +62,7 @@ html {
 }
 
 body {
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-family: "Microsoft YaHei", "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-size: 14px;
   color: #333;
   -webkit-font-smoothing: antialiased; }
@@ -515,7 +515,7 @@ img::-moz-selection {
     font-size: 0.8em;/*自留地*/
     font-weight: lighter;
     letter-spacing: 3px;
-    color:#FF0000;
+    color:  #C0C0C0;
     -webkit-font-smoothing: antialiased; }
 
   .panel-cover {
@@ -525,7 +525,7 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
-    background: url(http://api.dujin.org/bing/1920.php) top left no-repeat ;
+    background: url(/jekyll/images/side.jpg) top left no-repeat ;
     background-size: cover; }
 
   .panel-cover--collapsed {
