@@ -3,7 +3,7 @@ layout: page
 title: 关于我「ABOUT ME」 
 date: 2017-09-05 
 ---
-<a href="/jekyll/photos/" target="_blank" style="display: block;text-align: left;"><img src="/jekyll/images/florida.jpg" style="display: inline-block;" width="600" height="400" alt="photos"/></a>
+<a href="/photos/" target="_blank" style="display: block;text-align: left;"><img src="/images/florida.jpg" style="display: inline-block;" width="600" height="400" alt="photos"/></a>
 
 <p>
 一个从美国回到深圳来追寻自己的梦的游子 <a href="{{ site.baseurl }}/resume.pdf" target="_blank">「我的简历」</a>    
@@ -64,7 +64,7 @@ Blog resource codes are in <a target="_blank" href='https://github.com/yangxi200
 	}
 </script>
 
-<p>Email：yancy_yang@vip.163.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">WeChat：138900613</a><img id="img1" src="/jekyll/images/wechatImage.jpg" style="display:none;"  width="128" height="128">&emsp;
+<p>Email：yancy_yang@vip.163.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">WeChat：138900613</a><img id="img1" src="/images/wechatImage.jpg" style="display:none;"  width="128" height="128">&emsp;
  
 
 

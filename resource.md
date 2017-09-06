@@ -8,7 +8,7 @@ title: 资源「Resource」
 <h3> Personal Website</h3>   
 <p>
 
-<img src="/jekyll/images/qinghua.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<img src="/images/qinghua.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="http://media.au.tsinghua.edu.cn/yangxi.html" target="_blank">曾经的简历</a>- 曾经为了申请出国的第一个静态网页&nbsp;&nbsp;
 
 <h3> Some useful/beautiful web </h3>   
@@ -36,10 +36,10 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 
 
 <p>
-<a href="/jekyll/photos/"  style="color:#272727" target="_blank"> <h1>相册「Photos」</h1></a>  
+<a href="/photos/"  style="color:#272727" target="_blank"> <h1>相册「Photos」</h1></a>  
 </p>
 
-<a href="/jekyll/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="967" height="195" alt="photos" display="block"/></a>
+<a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/tupian.png" width="967" height="195" alt="photos" display="block"/></a>
 
 <p>
 

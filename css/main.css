@@ -525,7 +525,7 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
-    background: url(/jekyll/images/side.jpg) top left no-repeat ;
+    background: url(/images/side.jpg) top left no-repeat ;
     background-size: cover; }
 
   .panel-cover--collapsed {
