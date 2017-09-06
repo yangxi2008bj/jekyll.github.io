@@ -6,7 +6,7 @@ description: Welcome to My Home
 avatarTitle: Yancy_Yang
 # 头像里面的描述
 avatarDesc: Java/Healthcare
-url: "https://yangxi2008bj.github.io/jekyll/"
+url: "yancyyang.com"
 
 # Comment
 # comment:
@@ -60,11 +60,11 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Articles, description: archive, url: '/jekyll/archive'}   
-    - {title: Tags, description: tags, url: '/jekyll/tags'}   
-    - {title: Comments, description: comments, url: '/jekyll/comments'}
-    - {title: Resource, description: resource, url: '/jekyll/resource'}
-    - {title: About me, description: about, url: '/jekyll/about'}
+    - {title: Articles, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}   
+    - {title: Comments, description: comments, url: '/comments'}
+    - {title: Resource, description: resource, url: '/resource'}
+    - {title: About me, description: about, url: '/about'}
 
           
     
