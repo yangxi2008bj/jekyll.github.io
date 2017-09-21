@@ -11,6 +11,7 @@ tag: Java
 	Flyway是独立于数据库的应用、管理并跟踪数据库变更的数据库版本管理工具。Arun Gupta, Director of Developer Advocacy, Red Hat 曾说Flyway应该是所有Java企业应用开发的一个基础部分，它让数据库迁移无缝整合在整个应用生命周期。
 
 - 为什么要用Flyway？
+
 	Flyway的官网是如此介绍的：
 	
 	如果有一个软件叫Shiny Soft，以及它对应的数据库Shiny DB。简单的呈现如下图  
@@ -29,6 +30,7 @@ tag: Java
 	所以数据库迁移其实重点是对数据库版本进行控制，此时Flyway应运而生。
 
 - Flyway工作原理
+
 	最简单的场景是当你的Flyway指向一个空数据库
 	
 	![](/blogImages/EmptyDb.jpg)
