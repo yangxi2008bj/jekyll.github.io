@@ -2,8 +2,8 @@
 layout: post
 title: "Eclipse加入SonarLint代码审查"
 date: 2017-09-20 
-description: "sonarlint"
-tag: sonar
+description: "Sonarlint"
+tag: Sonar
 ---   
 ## SonarLint简介
 SonarLint是Eclipsede的一个插件，在编码过程中实时提示你的代码是否符合规范，是否存在bug，代码复杂度是否过高等的插件。目前支持Java, JavaScript, PHP, Python等。它能够帮助程序员更好的养成规范的代码习惯。同时也为SonarQube进行代码质量检查提供了基础，避免开发过程中的多次返工。
