@@ -65,7 +65,7 @@ nav:
     - {title: Comments, description: comments, url: '/comments'}
     - {title: Resource, description: resource, url: '/resource'}
     - {title: About me, description: about, url: '/about'}
-
+    - {title: Home, description: archive, url: '/'}
           
     
 
@@ -77,7 +77,7 @@ paginate_path: "page/:num/"
 
 valine:
   enable: true
-  appId: 5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz
-  appKey: 59CrEdy9yw1xmqcDQ4JcJbWy
+  appId: 6TzPAHAcNR8z1HnDFJDYyuTx-gzGzoHsz
+  appKey: Cu9W9OWHxq9pkPh0CqgeP3CP
 
 
