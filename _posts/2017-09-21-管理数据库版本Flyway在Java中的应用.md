@@ -45,7 +45,7 @@ tag: Java
 
 ## SpringMVC+Maven如何整合Flyway
 
-1 在pom.xml文件中，加入依赖，版本号自行决定，在此选用4.0.3版本
+- 在pom.xml文件中，加入依赖，版本号自行决定，在此选用4.0.3版本
   ```bash
 	<dependency>
 	    <groupId>org.flywaydb</groupId>
@@ -54,7 +54,7 @@ tag: Java
 	</dependency>
   ```
 
-2 建立数据库迁移拦截器，以自身项目为例，建立DBMigrationInterceptor.java
+- 建立数据库迁移拦截器，以自身项目为例，建立DBMigrationInterceptor.java
 	```java
 	import javax.annotation.PostConstruct;
 	import org.flywaydb.core.Flyway;
@@ -77,10 +77,10 @@ tag: Java
 	}
 	```
 
-3 建立数据库脚本：在对应的resource下建立文件夹，记录每次升级sql脚本并在名称上进行版本约束。注意：sql脚本的命名规则是严格的，V<version>[_<SEQ>][__description] 。版本号的数字间以小数点（. ）或下划线（_ ）分隔开，版本号与描述间以连续的两个下划线（__ ）分隔开。如`V1_1_0__Update.sql `
+- 建立数据库脚本：在对应的resource下建立文件夹，记录每次升级sql脚本并在名称上进行版本约束。注意：sql脚本的命名规则是严格的，V<version>[_<SEQ>][__description] 。版本号的数字间以小数点（. ）或下划线（_ ）分隔开，版本号与描述间以连续的两个下划线（__ ）分隔开。如`V1_1_0__Update.sql `
 	![](/blogImages/sql.jpg)
 
-4 在Spring中配置flyway的Java bean。
+- 在Spring中配置flyway的Java bean。
 	```java
 	<bean id="flyway" class="org.flywaydb.core.Flyway" depends-on="dataSource1" lazy-init="false">  
     	<property name="dataSource" ref="dataSource1"/>
@@ -92,6 +92,6 @@ tag: Java
 	其中id=flyway的bean中需提前配置dataSource，dataSource指向了当前的dataSource1。
 	id=JFlyway的bean中需配置拦截器地址。
 
-5 至此为止，当项目重新启动时，flyway就会正常工作。
+- 至此为止，当项目重新启动时，flyway就会正常工作。
 
-更多问题可以参考flyway官网，https://flywaydb.org/
+	更多问题可以参考flyway官网，https://flywaydb.org/
