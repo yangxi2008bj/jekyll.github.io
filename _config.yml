@@ -60,12 +60,12 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
+    - {title: Home, description: archive, url: '/'}
     - {title: Articles, description: archive, url: '/archive'}   
     - {title: Tags, description: tags, url: '/tags'}   
     - {title: Comments, description: comments, url: '/comments'}
     - {title: Resource, description: resource, url: '/resource'}
     - {title: About me, description: about, url: '/about'}
-    - {title: Home, description: archive, url: '/'}
           
     
 
