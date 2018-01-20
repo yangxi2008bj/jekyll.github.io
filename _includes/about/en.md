@@ -3,7 +3,7 @@
 > Yet another man.
 
 
-Hi, I am *@yancy* (Yang Xi), a software engineer. I previously worked as Java Back-End Engineer at [DJI](https://www.dji.com/); Technical Lead at[Lachesis Mhealth](http://www.lachesis-mh.com);
+Hi, I am *@yancy* (Yang Xi), a software engineer. I previously worked as full-stack Engineer at [Epic](https://www.epic.com/); Java Back-End Engineer at [DJI](https://www.dji.com/); Technical Lead at [Lachesis Mhealth](http://www.lachesis-mh.com);
 
 I studied at [Beijing University of Posts and Telecommunication] (https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) and [Queen Mary, University of London](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London) from 2008 to 2012 with a major in Telecommunication Engineering with Management and got the B.Eng degree from both University.
 
