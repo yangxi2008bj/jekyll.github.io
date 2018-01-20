@@ -88,6 +88,6 @@ service-worker: true
 friends: [
     {
         title: "玮哥的世界",
-        href: "http://ziweidoom.github.com"
+        href: "http://ziweidoom.github.io"
     }
 ]
