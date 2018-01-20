@@ -5,11 +5,11 @@
 
 Hi, I am *@yancy* (Yang Xi), a software engineer. I previously worked as full-stack Engineer at [Epic](https://www.epic.com/); Java Back-End Engineer at [DJI](https://www.dji.com/); Technical Lead at [Lachesis Mhealth](http://www.lachesis-mh.com);
 
-I studied at [Beijing University of Posts and Telecommunication] (https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) and [Queen Mary, University of London](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London) from 2008 to 2012 with a major in Telecommunication Engineering with Management and got the B.Eng degree from both University.
+I studied at [Beijing University of Posts and Telecommunication](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) and [Queen Mary, University of London](https://en.wikipedia.org/wiki/Queen_Mary_University_of_London) from 2008 to 2012 with a major in Telecommunication Engineering with Management and got the B.Eng degree from both University.
 
-I graduated from [Georgetown Unviersity] (https://en.wikipedia.org/wiki/Georgetown_University) in 2014 with a major in Computer Science and got the M.S degree.
+I graduated from [Georgetown Unviersity](https://en.wikipedia.org/wiki/Georgetown_University) in 2014 with a major in Computer Science and got the M.S degree.
 
-I also studied at BBNC Lab of [Tsinghua University] (https://en.wikipedia.org/wiki/Tsinghua_University) for one year(2011-2012) and studied at [New York University] (https://en.wikipedia.org/wiki/New_York_University) for one semester(2012).
+I also studied at BBNC Lab of [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University) for one year(2011-2012) and studied at [New York University](https://en.wikipedia.org/wiki/New_York_University) for one semester(2012).
 
 ##### Publications
 
