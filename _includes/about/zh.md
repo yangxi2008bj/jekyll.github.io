@@ -36,9 +36,7 @@
 If you would like to create a blog using Jekyll and Github, look into 
 <a href="/2017/03/HowToCreateBlog/"> Jekyll+Github </a>
 <p>
-
 Thanks for Hux, I folk your repository.
-
 <p> 
 
 Blog resource codes are in <a target="_blank" href='https://github.com/yangxi2008bj/jekyll' target="_blank" >Github</a> , Star me~
