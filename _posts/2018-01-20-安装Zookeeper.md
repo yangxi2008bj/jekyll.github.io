@@ -62,7 +62,6 @@ tags:
 - 把下载的zookeeper的文件解压到指定目录。如： D:\machine\zookeeper-3.4.11
 
 - 在conf下增加zoo.cfg文件，内容如下：
-
 	```bash
 	 # The number of milliseconds of each tick
 	 tickTime=2000
@@ -92,6 +91,6 @@ tags:
 	 # Purge task interval in hours
 	 # Set to "0" to disable auto purge feature
 	 #autopurge.purgeInterval=1
- 	 ```
+ 	```
 
 - 进入到bin目录，并且启动zkServer.cmd
