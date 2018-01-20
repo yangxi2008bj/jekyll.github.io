@@ -1,10 +1,5 @@
 
----
-layout: page
-title: 关于我「ABOUT ME」 
-date: 2017-09-05 10:12:13
-
----
+关于我「ABOUT ME」 
 
 <a href="/photos/" target="_blank" style="display: block;text-align: left;"><img src="/images/florida.jpg" style="display: inline-block;" width="600" height="400" alt="photos"/></a>
 
