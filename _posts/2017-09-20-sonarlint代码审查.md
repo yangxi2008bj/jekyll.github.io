@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "SonarLint代码审查"
+title:      "代码审查"
 date:       2017-09-20
 author:     "Xi Yang"
 tags: 
