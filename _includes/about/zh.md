@@ -58,7 +58,7 @@ Blog resource codes are in <a target="_blank" href='https://github.com/yangxi200
 	}
 </script>
 
-<p>Email：yancy_yang@vip.163.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" WeChat：138900613</a><img id="img1" src="/images/wechatImage.jpg" style="display:none;"  width="128" height="128">&emsp;
+<p>Email：yancy_yang@vip.163.com &emsp; WeChat：138900613</p>
  
 
 
