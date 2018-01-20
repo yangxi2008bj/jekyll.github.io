@@ -12,10 +12,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     yangxi_yancy@vip.163.com
-zhihu_username:     yangxi_yancy@vip.163.com
-github_username:    yangxi2008bj@gmail.com
-twitter_username:   yangxi_yancy@vip.163.com
+weibo_username:     yangxi199020081990
+zhihu_username:     yang-xi-91-26
+github_username:    yangxi2008bj
+twitter_username:   XiYancy
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
