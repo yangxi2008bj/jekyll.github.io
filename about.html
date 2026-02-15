@@ -25,19 +25,13 @@ multilingual: true
 </div>
 
 
-<div id="lv-container" data-id="city" data-uid="MTAyMC8zMzM3OS85OTM1">
-    <script type="text/javascript">
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
-
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   })(document, 'script');
-    </script>
-    <noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
+{% if site.utterances %}
+<script src="https://utteranc.es/client.js"
+        repo="{{ site.utterances_repo }}"
+        issue-term="{{ site.utterances_issue_term | default: 'pathname' }}"
+        theme="{{ site.utterances_theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>请启用 JavaScript 以使用评论功能</noscript>
+{% endif %}
