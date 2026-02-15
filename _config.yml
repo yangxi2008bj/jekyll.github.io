@@ -53,6 +53,12 @@ disqus_username: false
 # Netease setttings
 netease_comment: false
 
+# Utterances (GitHub-based comments, https://utteranc.es)
+utterances: true
+utterances_repo: "yangxi2008bj/jekyll"   # 格式: owner/repo，请改为你的博客仓库
+utterances_issue_term: "pathname"         # pathname | url | title | og:title
+utterances_theme: "github-light"          # github-light | github-dark | preferred-color-scheme
+
 
 
 # Analytics settings
